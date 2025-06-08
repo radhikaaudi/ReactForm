@@ -1,7 +1,7 @@
-📝 React Form with Validation & Routing
+**📝 React Form with Validation & Routing**
 This project is a React-based form that includes built-in field validation, conditional submission, and routing to display submitted data. No third-party form libraries are used—only React core features and state management are leveraged.
 
-🚀 Features
+**🚀 Features**
 Fully controlled form using React useState
 
 Built-in validation for all fields (required and format-based)
@@ -18,7 +18,7 @@ Disabled submit button until form is valid
 
 On successful submission, user is redirected to a new route displaying all filled details
 
-🧾 Form Fields
+**🧾 Form Fields**
 First Name (required)
 
 Last Name (required)
@@ -43,7 +43,7 @@ PAN Number (required, format validation)
 
 Aadhaar Number (required, 12-digit)
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 React
 
 React Router DOM
